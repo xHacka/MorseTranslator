@@ -1,8 +1,8 @@
-## MorseTranslator
+# MorseTranslator
 
-# Simple Morse Code Translator
+## Simple Morse Code Translator
 
-# Can Encode English Text Into Morse And Vice Versa
+## Can Encode English Text Into Morse And Vice Versa
 
 > Delimiter For Letters: " "
 > 
