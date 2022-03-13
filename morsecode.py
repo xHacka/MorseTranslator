@@ -1,6 +1,3 @@
-from multiprocessing.sharedctypes import Value
-
-
 def morse_code_encode(text):
     return "".join([morse[letter] + " " for letter in text.upper()])
 
